@@ -7,11 +7,12 @@ Below, you'll find a collection of my various design projects, including UI/UX d
 ### 1. **Ayoba Business Chat UI**
 A modern business chat interface designed for the Ayoba platform, enhancing user engagement and marketing capabilities.  
 **🔗 [View on Figma](YOUR_FIGMA_LINK_HERE)**
+![AYOBA BUSINESS CHAT UI](AYOBA_ADS_FEATURE.png)
 
 ### 2. **FLUF WEBSITE REDESIGN**
 A modern and visually captivating redesign of the FLUF website, aimed at improving usability, navigation, and overall aesthetic appeal. The new design introduces a more interactive and engaging user experience with enhanced typography, intuitive layouts, and immersive visuals.
 
-**🖼️ Preview:**  
+
 ![FLUF Website Redesign](FLUF_REDESIGN.png)
 
 **🔗 [View on Figma](YOUR_FIGMA_LINK_HERE)**
